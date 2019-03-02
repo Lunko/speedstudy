@@ -2,7 +2,7 @@
 
 ## 2019
 
-something about your goals here
+Started 02/03/2019 with Introduction to Computer Science and Programming Using Python
 
 ## Progress
 
