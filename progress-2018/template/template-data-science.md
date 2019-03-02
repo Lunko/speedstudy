@@ -1,6 +1,6 @@
 # Progress towards my learning goals
 
-## 2018
+## 2019
 
 something about your goals here
 
@@ -16,7 +16,7 @@ Total Points earned:
 
 
 ## Data Science Intensive
-- [ ] [Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-11)
+- [ ] [Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-11) 
 - [ ] [Data Science Path on Cognitive Class](https://cognitiveclass.ai/learn/data-science/)
 - [ ] [MongoDB for Developers](https://university.mongodb.com/courses/M101P/about)
 - [ ] [Introduction to Biology - The Secret of Life](https://www.edx.org/course/introduction-biology-secret-life-mitx-7-00x-6)
